@@ -6,3 +6,9 @@ if someone else works on the project and changes something then what they did wi
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Fork is like a clone but its from one github account to another so you don't have to do a runaround if you want a copy of someones repository on your  github, a clone is a copy from on repository to another (github->local or local->local) , and a branch is a split from the main save so you an work on things without breaking the code.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+sharing files directly or in some kind of cloud, but it probably would have all the gadgets that come with git or github so it would be harder to use.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+make changes in a separate branch for eerything except when it is a bigfix i think. If you do big things in branches you won't have the master branch being broken most of the time.
